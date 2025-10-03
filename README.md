@@ -15,7 +15,7 @@ This project is meant as a first step into GUI programming with Python.
 
 - When you run the project, a small window opens with the text Hello World .
 
-![picture]<img width="390" height="185" alt="Screenshot 2025-10-03 213018" src="https://github.com/user-attachments/assets/b5503b5f-90ae-4a49-b4d5-c3da590850a6" />
+<img width="390" height="185" alt="Screenshot 2025-10-03 213018" src="https://github.com/user-attachments/assets/b5503b5f-90ae-4a49-b4d5-c3da590850a6" />
 
 
 ---
