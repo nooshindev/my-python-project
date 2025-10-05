@@ -1,31 +1,42 @@
-# 🎨 Tkinter Hello World  
+# 🎨 Hello Everyone
 
-A very simple Python project using the Tkinter library to create a graphical window that displays "Hello World 👋".  
-This project is meant as a first step into GUI programming with Python.  
+-A collection of Python projects.
+-This repository is for learning, practice, and showcasing projects.
 
 ---
 
 ## ✨ Features
 - ✅ Simple GUI window  
-- ✅ "Hello World" text display  
 - ✅ Beginner-friendly code
+- ✅ Clean and organized project folders
+- ✅ Simple instructions to run projects
+- ✅ Ready for learning and practice
+- ✅ Easy to extend or modify projects
 ---
 
-## 📸Screenshots
+## 📸 Screenshots
+---
 
-- When you run the project, a small window opens with the text Hello World .
+## ⚠️ Important point
 
-<img width="390" height="185" alt="Screenshot 2025-10-03 213018" src="https://github.com/user-attachments/assets/b5503b5f-90ae-4a49-b4d5-c3da590850a6" />
-
+-This repository is for personal learning purposes only
 
 ---
+
+## 📋 Notes
+
+-Projects are for learning and practice only
+-Coding style may vary between projects
+
+---
+
 ## 📚 Technologies Used
 
 - Python 3
 - Tkinter (built-in GUI library)
 
 ---
-## 📝Author
+## 📝 Author
 
 - [Nooshin Jamshidian](https://github.com/nooshidev)
 
