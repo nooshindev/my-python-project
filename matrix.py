@@ -6,7 +6,7 @@ cols2 = int(input("Number of columns for the second matrix: "))
 
 
 if cols1 != rows2:
-    print("❌(Columns of A must equal rows of B)")
+    print("(Columns of A must equal rows of B)")
 else:
     matrix1 = []
     matrix2 = []
@@ -41,7 +41,7 @@ else:
         result.append(row)
     
     
-    print("\n✅ Result :")
+    print("\n Result :")
     for i in range(rows1):
         for j in range(cols2):
             print(result[i][j], end="\t")
