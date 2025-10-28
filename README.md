@@ -28,7 +28,7 @@
 ---
 
 ## 📂 Folder Structure
-```bash
+
 my-python-project/
 ├── [proje.py](./proje.py)
 ├── [Proje2.py](./Proje2.py)
