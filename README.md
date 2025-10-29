@@ -12,6 +12,7 @@
 - ✅ Simple instructions to run projects
 - ✅ Ready for learning and practice
 - ✅ Easy to extend or modify projects
+
 ---
 
 ## ⚠️ Important point
@@ -31,8 +32,12 @@
 
 my-python-project/
 ├── [proje.py](./proje.py)
-├── [Proje2.py](./Proje2.py)
+├── [calculatur.py](./calculator.py)
 ├── [matrix.py](./matrix.py)
+├── [Stars.py](./Stars.py)
+├── [Calculate-Age.py](./Calculate-Age.py)
+├── [reversed.py](./reversed.py)
+├── [power.py](./power.py)
 
 ---
 
