@@ -32,7 +32,7 @@
 
 my-python-project/
 ├── [proje.py](./proje.py)
-├── [calculatur.py](./calculator.py)
+├── [calculator.py](./calculator.py)
 ├── [matrix.py](./matrix.py)
 ├── [Stars.py](./Stars.py)
 ├── [Calculate-Age.py](./Calculate-Age.py)
