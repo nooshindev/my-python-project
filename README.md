@@ -1,7 +1,7 @@
 # 🎨 Hello Everyone
 
--A collection of Python projects.
--This repository is for learning, practice, and showcasing projects.
+- A collection of Python projects.
+- This repository is for learning, practice, and showcasing projects.
 
 ---
 
@@ -14,28 +14,28 @@
 - ✅ Easy to extend or modify projects
 ---
 
-## 📸 Screenshots
----
-
 ## ⚠️ Important point
 
--This repository is for personal learning purposes only
+- This repository is for personal learning purposes only
 
 ---
 
 ## 📋 Notes
 
--Projects are for learning and practice only
--Coding style may vary between projects
+- Projects are for learning and practice only
+- Coding style may vary between projects
 
 ---
 
-## 📚 Technologies Used
+## 📂 Folder Structure
 
-- Python 3
-- Tkinter (built-in GUI library)
+my-python-project/
+├── [proje.py](./proje.py)
+├── [Proje2.py](./Proje2.py)
+├── [matrix.py](./matrix.py)
 
 ---
+
 ## 📝 Author
 
 - [Nooshin Jamshidian](https://github.com/nooshidev)
